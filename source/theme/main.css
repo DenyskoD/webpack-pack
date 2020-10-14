@@ -1,0 +1,9 @@
+body {
+  min-height: 100vh;
+  background-color: #ccc;
+  text-align: center;
+  font-weight: 600;
+  font-size: 33px;
+  color: #161619;
+  font-family: 'Roboto Condensed';
+}
